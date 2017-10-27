@@ -1,0 +1,277 @@
+patient	cancer	anatomic_organ_subdivision	tumor_site	age_at_initial_pathologic_diagnosis	days_to_death	days_to_last_followup	days_to_last_known_alive	distant_metastasis_pathologic_spread	gender	histological_type	history_of_colon_polyps	icd_o_3_histology	icd_o_3_site	lymphatic_invasion_present	lymphnode_pathologic_spread	lymphnodes_examined	number_of_first_degree_relatives_with_cancer_diagnosis	number_of_lymphnodes_examined	number_of_lymphnodes_positive_by_he	person_neoplasm_cancer_status	preoperative_pretreatment_cea_level	primary_tumor_pathologic_spread	prior_diagnosis	residual_tumor	synchronous_colon_cancer_present	tumor_stage	vascular_invasion_present	vital_status
+TCGA-A6-2670	Colon	Sigmoid Colon	3 - left colon	45	NA	423	423	M0	MALE	Colon Adenocarcinoma	YES	NA	NA	NO	N0	YES	0	22	0	NA	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-A6-2671	Colon	Sigmoid Colon	3 - left colon	85	NA	648	648	M1	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	NA	YES	0	27	3	WITH TUMOR	17.4	T3	NO	R0	NO	Stage IV	YES	LIVING
+TCGA-A6-2672	Colon	Transverse Colon	2 - transverse colon	82	NA	503	503	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.0	YES	N1	YES	0	29	1	TUMOR FREE	3.4	T3	NO	R0	NO	Stage IIIB	YES	LIVING
+TCGA-A6-2674	Colon	Sigmoid Colon	3 - left colon	71	NA	523	523	M1	MALE	Colon Mucinous Adenocarcinoma	NO	8140/3	C18.7	NO	N2	YES	0	20	7	TUMOR FREE	32.8	T3	NO	R0	NO	Stage IV	YES	LIVING
+TCGA-A6-2676	Colon	Cecum	1 - right colon	75	NA	447	447	M0	FEMALE	Colon Mucinous Adenocarcinoma	NO	8140/3	C18.0	NO	N0	YES	0	15	0	TUMOR FREE	6.3	NA	NO	R0	NO	Stage IIB	NO	LIVING
+TCGA-A6-2677	Colon	Cecum	1 - right colon	68	NA	541	541	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N2	YES	2	30	5	TUMOR FREE	27.4	T3	NO	R0	NO	Stage IIIC	NO	LIVING
+TCGA-A6-2678	Colon	Transverse Colon	2 - transverse colon	43	NA	437	437	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.4	YES	N1	YES	1	26	2	TUMOR FREE	13.5	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-A6-2679	Colon	Ascending Colon	1 - right colon	73	NA	595	595	NA	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	0	16	0	TUMOR FREE	15.7	T3	NO	R0	NO	Stage IIB	NO	LIVING
+TCGA-A6-2680	Colon	Hepatic Flexure	1 - right colon	72	NA	522	522	M0	FEMALE	Colon Adenocarcinoma	NA	8140/3	C18.3	NO	N0	YES	0	34	0	TUMOR FREE	3.2	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-A6-2681	Colon	Cecum	1 - right colon	73	NA	552	552	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	NO	N0	YES	0	23	0	TUMOR FREE	2.4	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-A6-2682	Colon	Cecum	1 - right colon	70	424	424	424	M1	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	YES	N1	YES	0	13	2	WITH TUMOR	2.8	T4b	YES	R0	NO	Stage IV	YES	DECEASED
+TCGA-A6-2683	Colon	Ascending Colon	1 - right colon	57	NA	472	472	M1	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	0	25	0	WITH TUMOR	2614	NA	NO	R0	NO	Stage IV	NO	LIVING
+TCGA-A6-2684	Colon	Cecum	1 - right colon	75	NA	387	387	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.0	NO	N0	YES	0	33	0	TUMOR FREE	NA	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-A6-2685	Colon	Sigmoid Colon	3 - left colon	48	NA	464	464	M0	FEMALE	Colon Adenocarcinoma	NA	8140/3	C18.7	NO	N0	YES	0	29	0	TUMOR FREE	29.5	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-A6-2686	Colon	Cecum	1 - right colon	81	NA	488	488	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	NO	N0	YES	0	33	0	TUMOR FREE	2.2	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-A6-3807	Colon	Sigmoid Colon	3 - left colon	53	NA	332	332	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N2	YES	0	24	5	TUMOR FREE	45	T3	NO	R0	NO	Stage IIIC	YES	LIVING
+TCGA-A6-3808	Colon	Cecum	1 - right colon	73	NA	278	278	M0	MALE	Colon Mucinous Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	0	24	0	TUMOR FREE	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-A6-3809	Colon	Transverse Colon	2 - transverse colon	71	NA	313	313	M0	FEMALE	Colon Mucinous Adenocarcinoma	NO	8140/3	C18.4	NO	N0	YES	1	24	0	TUMOR FREE	NA	NA	NO	R0	NO	Stage IIB	NO	LIVING
+TCGA-A6-3810	Colon	Sigmoid Colon	3 - left colon	62	NA	246	246	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	0	30	0	TUMOR FREE	1.7	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-A6-4107	Colon	Ascending Colon	1 - right colon	57	NA	231	231	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.2	YES	N1b	YES	0	28	2	TUMOR FREE	1.6	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-3488	Colon	Sigmoid Colon	3 - left colon	58	152	91	152	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NA	N2	YES	0	26	15	WITH TUMOR	NA	T3	NO	R2	NO	Stage IV	NA	DECEASED
+TCGA-AA-3492	Colon	Ascending Colon	1 - right colon	90	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.2	NO	N0	YES	0	21	0	WITH TUMOR	NA	T3	NO	R0	YES	Stage IIA	NO	LIVING
+TCGA-AA-3494	Colon	Sigmoid Colon	3 - left colon	55	NA	31	31	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NA	N0	YES	0	39	0	WITH TUMOR	261.3	T3	NO	R2	NO	Stage IV	NA	LIVING
+TCGA-AA-3495	Colon	Hepatic Flexure	1 - right colon	79	NA	31	61	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.3	NA	N0	YES	0	18	0	WITH TUMOR	1.9	T2	NO	R0	NO	Stage I	NA	LIVING
+TCGA-AA-3502	Colon	Transverse Colon	2 - transverse colon	73	NA	31	31	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.4	NA	N0	YES	0	31	0	WITH TUMOR	3.7	T2	NO	R0	NO	Stage I	NA	LIVING
+TCGA-AA-3506	Colon	Hepatic Flexure	1 - right colon	77	NA	0	0	M0	MALE	Colon Adenocarcinoma	NA	8140/3	C18.3	NA	N0	YES	0	46	0	WITH TUMOR	2.08	T2	YES	R0	YES	Stage I	NA	LIVING
+TCGA-AA-3509	Colon	Sigmoid Colon	3 - left colon	54	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NA	N0	YES	0	27	0	WITH TUMOR	2.82	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-3510	Colon	Transverse Colon	2 - transverse colon	70	NA	31	31	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.4	NO	N0	YES	0	44	0	WITH TUMOR	3.59	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3514	Colon	Ascending Colon	1 - right colon	81	NA	0	31	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	0	12	0	WITH TUMOR	2.3	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3516	Colon	Ascending Colon	1 - right colon	74	NA	0	31	M0	FEMALE	Colon Mucinous Adenocarcinoma	NO	8480/3	C18.2	NO	N2	YES	0	26	7	WITH TUMOR	1.41	T3	YES	NA	NO	Stage IIIB	NO	LIVING
+TCGA-AA-3517	Colon	Splenic Flexure	3 - left colon	60	NA	0	31	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.5	NO	N0	YES	0	54	0	WITH TUMOR	1.23	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3518	Colon	Cecum	1 - right colon	81	NA	31	31	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	NO	N0	YES	0	27	0	WITH TUMOR	1.48	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3519	Colon	Rectosigmoid Junction	4 - rectum	63	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N1	YES	0	43	3	WITH TUMOR	1.26	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-3520	Colon	Ascending Colon	1 - right colon	86	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	0	20	0	WITH TUMOR	5.8	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3521	Colon	Sigmoid Colon	3 - left colon	87	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	0	22	0	WITH TUMOR	0.99	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3522	Colon	Ascending Colon	1 - right colon	67	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	YES	N0	YES	0	18	0	WITH TUMOR	0.96	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3524	Colon	Sigmoid Colon	3 - left colon	85	NA	0	30	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	0	28	0	WITH TUMOR	1.3	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3525	Colon	Hepatic Flexure	1 - right colon	90	NA	0	31	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.3	NO	N1	YES	0	28	2	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-3526	Colon	Sigmoid Colon	3 - left colon	57	NA	30	30	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	2	17	0	WITH TUMOR	2.06	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3527	Colon	Cecum	1 - right colon	90	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.0	NO	N0	YES	0	15	0	WITH TUMOR	4.72	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3529	Colon	Sigmoid Colon	3 - left colon	78	0	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N2	YES	0	34	10	WITH TUMOR	17.3	T3	NO	R0	YES	Stage IIIC	NO	DECEASED
+TCGA-AA-3530	Colon	Cecum	1 - right colon	80	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.0	NO	N0	YES	0	24	0	WITH TUMOR	1.88	T2	YES	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3531	Colon	Sigmoid Colon	3 - left colon	75	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N0	YES	0	37	0	WITH TUMOR	0.65	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3532	Colon	Sigmoid Colon	3 - left colon	63	NA	0	0	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N0	YES	0	35	0	WITH TUMOR	1.28	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3534	Colon	Ascending Colon	1 - right colon	78	NA	0	30	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.2	YES	N0	YES	1	36	0	WITH TUMOR	1.56	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3538	Colon	Descending Colon	3 - left colon	54	NA	0	30	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.6	NO	N0	YES	0	26	0	WITH TUMOR	5.84	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3542	Colon	Sigmoid Colon	3 - left colon	69	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N2	YES	1	18	4	WITH TUMOR	1.93	T3	NO	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AA-3543	Colon	Cecum	1 - right colon	84	NA	0	30	M0	MALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.0	NO	N0	YES	0	25	0	WITH TUMOR	0.81	T2	YES	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3544	Colon	Sigmoid Colon	3 - left colon	68	NA	0	0	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N0	YES	0	21	0	WITH TUMOR	0.39	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3548	Colon	Cecum	1 - right colon	71	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N2	YES	0	23	4	WITH TUMOR	55.01	T3	NO	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AA-3549	Colon	Cecum	1 - right colon	69	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.0	NO	N0	YES	0	31	0	WITH TUMOR	0.76	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3552	Colon	Cecum	1 - right colon	85	NA	0	61	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N2	YES	0	20	10	WITH TUMOR	2.71	T3	YES	R0	YES	Stage IIIC	NO	LIVING
+TCGA-AA-3553	Colon	Sigmoid Colon	3 - left colon	61	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	0	21	0	WITH TUMOR	NA	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3554	Colon	Ascending Colon	1 - right colon	62	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	3	39	0	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3555	Colon	Hepatic Flexure	1 - right colon	81	NA	30	30	M0	FEMALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.3	NO	N0	YES	0	26	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3556	Colon	Sigmoid Colon	3 - left colon	78	NA	0	0	M0	MALE	NA	YES	8480/3	C18.7	NO	N0	YES	0	22	0	WITH TUMOR	NA	T2	YES	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3558	Colon	Sigmoid Colon	3 - left colon	70	NA	0	30	NA	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N0	YES	0	46	0	WITH TUMOR	NA	T2	NO	R2	NO	NA	NO	LIVING
+TCGA-AA-3560	Colon	Sigmoid Colon	3 - left colon	72	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N2	YES	0	25	5	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AA-3561	Colon	Ascending Colon	1 - right colon	72	NA	0	31	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	0	50	NA	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3562	Colon	Descending Colon	3 - left colon	82	NA	31	31	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.6	YES	N2	YES	0	28	7	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AA-3664	Colon	Cecum	1 - right colon	74	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	NO	N0	YES	0	22	0	WITH TUMOR	4.22	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3666	Colon	Cecum	1 - right colon	68	61	31	61	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.0	NO	N1	YES	0	41	2	WITH TUMOR	41.6	T3	NO	R0	NO	Stage IIIB	NO	DECEASED
+TCGA-AA-3667	Colon	Sigmoid Colon	3 - left colon	36	NA	0	30	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N0	YES	0	22	0	WITH TUMOR	0.45	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3672	Colon	Transverse Colon	2 - transverse colon	90	NA	0	28	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.4	NO	N1	YES	0	21	4	WITH TUMOR	1.27	T3	YES	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-3673	Colon	Transverse Colon	2 - transverse colon	53	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.4	NO	N0	NO	1	NA	0	WITH TUMOR	3.89	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3675	Colon	Hepatic Flexure	1 - right colon	84	NA	31	31	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.3	NO	N0	YES	0	24	0	WITH TUMOR	5.06	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3678	Colon	Sigmoid Colon	3 - left colon	60	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N1	YES	0	26	1	WITH TUMOR	2	T2	NO	R0	NO	Stage IIIA	NO	LIVING
+TCGA-AA-3679	Colon	Descending Colon	3 - left colon	59	NA	30	30	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.6	YES	N2	YES	0	12	5	WITH TUMOR	25.78	T3	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3680	Colon	Cecum	1 - right colon	67	NA	0	0	M1	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N2	YES	0	35	12	WITH TUMOR	59.94	NA	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3681	Colon	Cecum	1 - right colon	77	NA	0	31	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.0	NO	N1	YES	0	16	2	WITH TUMOR	2.36	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-3684	Colon	Cecum	1 - right colon	65	NA	0	0	M1	FEMALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.0	YES	N2	YES	0	10	9	WITH TUMOR	2.28	NA	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3685	Colon	Sigmoid Colon	3 - left colon	69	NA	30	30	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N0	YES	0	24	0	WITH TUMOR	8.76	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3688	Colon	Sigmoid Colon	3 - left colon	80	NA	0	0	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N1	YES	1	13	2	WITH TUMOR	47.45	T3	YES	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3692	Colon	Splenic Flexure	3 - left colon	47	NA	0	0	M1	FEMALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.5	NO	N2	YES	0	30	5	WITH TUMOR	49.21	T3	YES	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3693	Colon	Sigmoid Colon	3 - left colon	77	NA	0	31	M1	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N1	YES	0	17	2	WITH TUMOR	2.42	NA	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3695	Colon	Cecum	1 - right colon	63	NA	0	31	M1	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.0	YES	N2	YES	0	33	6	WITH TUMOR	NA	T3	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3696	Colon	Sigmoid Colon	3 - left colon	75	NA	0	31	M1	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N1	YES	0	26	1	WITH TUMOR	NA	T3	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3710	Colon	Hepatic Flexure	1 - right colon	80	NA	31	31	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.3	YES	N0	YES	0	20	0	WITH TUMOR	5.12	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-3715	Colon	Ascending Colon	1 - right colon	77	NA	30	30	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	YES	N0	YES	0	12	0	WITH TUMOR	7.05	T3	YES	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-3811	Colon	Hepatic Flexure	1 - right colon	84	NA	30	30	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.3	YES	N2	YES	0	15	5	WITH TUMOR	3.4	T3	NO	R0	NO	Stage IIIB	YES	LIVING
+TCGA-AA-3812	Colon	Sigmoid Colon	3 - left colon	82	NA	0	31	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N0	YES	0	13	0	WITH TUMOR	1.52	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-3814	Colon	Ascending Colon	1 - right colon	85	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.2	YES	N0	YES	0	23	0	WITH TUMOR	4.03	T3	YES	R0	NO	Stage IIA	YES	LIVING
+TCGA-AA-3815	Colon	Cecum	1 - right colon	65	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N0	YES	1	20	0	WITH TUMOR	0.82	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-3818	Colon	Hepatic Flexure	1 - right colon	78	30	0	30	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.3	NO	N0	YES	0	18	0	WITH TUMOR	3.79	T3	NO	R0	NO	Stage IIA	NO	DECEASED
+TCGA-AA-3819	Colon	Sigmoid Colon	3 - left colon	41	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N0	YES	0	14	0	WITH TUMOR	1.28	T3	NO	R0	NO	Stage IIA	YES	LIVING
+TCGA-AA-3821	Colon	Hepatic Flexure	1 - right colon	81	NA	0	30	M0	FEMALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.3	NA	N0	YES	0	13	0	WITH TUMOR	2.14	T2	NO	R0	NO	Stage I	NA	LIVING
+TCGA-AA-3831	Colon	Sigmoid Colon	3 - left colon	66	NA	0	31	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N0	YES	0	12	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	YES	LIVING
+TCGA-AA-3833	Colon	Ascending Colon	1 - right colon	63	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.2	YES	N0	YES	0	12	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	YES	LIVING
+TCGA-AA-3837	Colon	Hepatic Flexure	1 - right colon	67	NA	31	31	M0	MALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.3	YES	N0	YES	2	36	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-3841	Colon	Sigmoid Colon	3 - left colon	66	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N0	YES	0	24	0	WITH TUMOR	NA	T3	NO	R0	YES	Stage IIA	YES	LIVING
+TCGA-AA-3842	Colon	Sigmoid Colon	3 - left colon	51	NA	31	31	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N1	YES	0	12	2	WITH TUMOR	NA	T2	NO	R0	NO	Stage IIIA	YES	LIVING
+TCGA-AA-3844	Colon	Sigmoid Colon	3 - left colon	78	NA	28	28	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N2	YES	0	18	7	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIIC	YES	LIVING
+TCGA-AA-3845	Colon	Ascending Colon	1 - right colon	86	0	0	0	M0	FEMALE	NA	NO	NA	C18.2	YES	N0	YES	0	12	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NA	DECEASED
+TCGA-AA-3846	Colon	Sigmoid Colon	3 - left colon	74	NA	30	30	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N0	YES	0	16	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-3848	Colon	Sigmoid Colon	3 - left colon	82	NA	30	30	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N2	YES	0	12	6	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIC	YES	LIVING
+TCGA-AA-3850	Colon	Transverse Colon	2 - transverse colon	74	0	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.4	YES	N0	YES	0	15	0	WITH TUMOR	NA	T2	NO	R0	NO	Stage I	NA	DECEASED
+TCGA-AA-3851	Colon	Ascending Colon	1 - right colon	74	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	YES	N0	YES	1	14	0	WITH TUMOR	7.55	T3	NO	R0	NO	Stage IIA	YES	LIVING
+TCGA-AA-3852	Colon	Transverse Colon	2 - transverse colon	88	0	0	0	M0	MALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.4	YES	N0	YES	0	13	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	YES	DECEASED
+TCGA-AA-3854	Colon	Sigmoid Colon	3 - left colon	71	NA	31	31	M0	FEMALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.7	YES	N0	YES	0	12	0	WITH TUMOR	NA	T2	NO	R0	NO	Stage I	YES	LIVING
+TCGA-AA-3855	Colon	Sigmoid Colon	3 - left colon	72	NA	0	30	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N0	YES	0	36	0	WITH TUMOR	NA	T2	NO	R0	NO	Stage I	YES	LIVING
+TCGA-AA-3856	Colon	Sigmoid Colon	3 - left colon	59	NA	0	30	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N0	YES	0	13	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	YES	LIVING
+TCGA-AA-3858	Colon	Sigmoid Colon	3 - left colon	67	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N0	YES	1	12	0	WITH TUMOR	NA	T2	NO	R0	NO	Stage I	YES	LIVING
+TCGA-AA-3860	Colon	Sigmoid Colon	3 - left colon	53	NA	0	31	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N1	YES	0	14	2	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIIB	YES	LIVING
+TCGA-AA-3861	Colon	Cecum	1 - right colon	72	NA	0	31	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N0	YES	0	17	0	WITH TUMOR	NA	T3	NO	R0	YES	Stage IIA	YES	LIVING
+TCGA-AA-3862	Colon	Transverse Colon	2 - transverse colon	82	NA	31	31	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.4	YES	N0	YES	0	16	0	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-3864	Colon	Cecum	1 - right colon	71	NA	0	30	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.0	NO	N0	YES	0	21	0	WITH TUMOR	3.12	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3866	Colon	Cecum	1 - right colon	78	NA	0	30	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	NO	N0	YES	0	23	0	WITH TUMOR	11.36	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3867	Colon	Sigmoid Colon	3 - left colon	74	NA	0	0	M1	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N2	YES	0	24	4	WITH TUMOR	304.5	T3	YES	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3869	Colon	Cecum	1 - right colon	76	NA	0	31	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N2	YES	0	28	14	WITH TUMOR	NA	NA	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3870	Colon	Ascending Colon	1 - right colon	71	NA	0	0	M1	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.2	YES	N2	YES	1	23	5	WITH TUMOR	NA	T3	YES	R0	NO	Stage IV	NO	LIVING
+TCGA-AA-3872	Colon	Sigmoid Colon	3 - left colon	45	NA	0	0	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N2	YES	0	29	23	WITH TUMOR	NA	NA	NO	R2	NO	Stage IV	YES	LIVING
+TCGA-AA-3875	Colon	Ascending Colon	1 - right colon	78	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.2	NO	N0	YES	0	31	0	WITH TUMOR	0.87	T1	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3877	Colon	Transverse Colon	2 - transverse colon	83	NA	30	61	M0	FEMALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.4	NO	N0	YES	0	18	0	WITH TUMOR	5.6	T1	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3930	Colon	Ascending Colon	1 - right colon	66	NA	0	0	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.2	YES	N2	YES	0	29	24	WITH TUMOR	NA	T3	NO	R2	NO	Stage IV	YES	LIVING
+TCGA-AA-3939	Colon	Ascending Colon	1 - right colon	83	NA	30	30	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	0	40	0	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3941	Colon	Ascending Colon	1 - right colon	84	NA	31	31	M1a	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.2	YES	N1b	YES	0	41	3	WITH TUMOR	NA	NA	NO	R0	YES	Stage IVA	NO	LIVING
+TCGA-AA-3947	Colon	Ascending Colon	1 - right colon	60	NA	30	30	M0	FEMALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.2	NO	N0	YES	0	22	0	WITH TUMOR	NA	NA	NO	R0	NO	Stage IIB	NO	LIVING
+TCGA-AA-3949	Colon	Ascending Colon	1 - right colon	87	NA	30	30	M0	FEMALE	Colon Mucinous Adenocarcinoma	NO	8480/3	C18.2	NO	N1	YES	0	19	3	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-3950	Colon	Ascending Colon	1 - right colon	79	NA	31	31	M0	FEMALE	Colon Mucinous Adenocarcinoma	NO	8480/3	C18.2	NO	N0	YES	2	17	0	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3952	Colon	Descending Colon	3 - left colon	68	61	31	61	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.6	YES	N2	YES	0	14	6	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIIC	YES	DECEASED
+TCGA-AA-3955	Colon	Descending Colon	3 - left colon	38	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.6	YES	N2a	YES	0	31	5	WITH TUMOR	NA	T2	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-3956	Colon	Cecum	1 - right colon	65	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.0	NO	N0	YES	0	36	0	WITH TUMOR	4.3	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3966	Colon	Hepatic Flexure	1 - right colon	89	NA	31	61	M0	FEMALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.3	YES	N0	YES	0	14	0	WITH TUMOR	NA	T3	NO	NA	NO	Stage IIA	YES	LIVING
+TCGA-AA-3968	Colon	Sigmoid Colon	3 - left colon	55	NA	0	30	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N0	YES	1	19	0	WITH TUMOR	1.55	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3970	Colon	Sigmoid Colon	3 - left colon	65	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	0	27	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3971	Colon	Sigmoid Colon	3 - left colon	58	NA	0	0	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N1	YES	0	19	2	WITH TUMOR	1.48	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-3972	Colon	Sigmoid Colon	3 - left colon	72	NA	0	0	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N1	YES	0	12	3	WITH TUMOR	5.15	T3	YES	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3973	Colon	Sigmoid Colon	3 - left colon	69	NA	0	0	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N1	YES	1	21	3	WITH TUMOR	375.2	NA	NO	R2	NO	Stage IV	YES	LIVING
+TCGA-AA-3975	Colon	Sigmoid Colon	3 - left colon	80	NA	30	30	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N0	YES	0	14	0	WITH TUMOR	NA	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3976	Colon	Sigmoid Colon	3 - left colon	70	NA	0	30	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NA	N1	YES	0	16	2	WITH TUMOR	NA	T2	YES	R0	NO	Stage IIIA	NO	LIVING
+TCGA-AA-3977	Colon	Sigmoid Colon	3 - left colon	65	NA	31	31	NA	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	0	15	0	WITH TUMOR	NA	T2	NO	NA	NO	NA	NO	LIVING
+TCGA-AA-3979	Colon	Sigmoid Colon	3 - left colon	84	NA	0	31	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N0	YES	0	22	0	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-3980	Colon	Sigmoid Colon	3 - left colon	89	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N0	YES	1	19	0	WITH TUMOR	NA	T2	NO	NA	NO	Stage I	YES	LIVING
+TCGA-AA-3982	Colon	Sigmoid Colon	3 - left colon	75	NA	0	0	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N1	YES	0	13	3	WITH TUMOR	NA	T3	NO	NA	NO	Stage IIIB	YES	LIVING
+TCGA-AA-3984	Colon	Sigmoid Colon	3 - left colon	61	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N0	YES	0	12	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	YES	LIVING
+TCGA-AA-3986	Colon	Transverse Colon	2 - transverse colon	73	NA	30	30	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.4	NO	N0	YES	0	27	0	WITH TUMOR	1.89	T2	YES	R0	NO	Stage I	NO	LIVING
+TCGA-AA-3989	Colon	Transverse Colon	2 - transverse colon	84	NA	0	30	M1	MALE	Colon Adenocarcinoma	YES	8140/3	C18.4	YES	N2	YES	0	19	5	WITH TUMOR	NA	T3	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AA-3994	Colon	Transverse Colon	2 - transverse colon	69	NA	0	30	M0	MALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.4	NO	N1	YES	1	24	2	WITH TUMOR	3.52	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-A004	Colon	Sigmoid Colon	3 - left colon	76	NA	424	424	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	0	32	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-A00A	Colon	Ascending Colon	1 - right colon	80	NA	548	548	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.2	NO	N0	YES	0	34	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-A00D	Colon	Ascending Colon	1 - right colon	70	NA	578	578	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	0	28	0	WITH TUMOR	1.02	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-A00E	Colon	Ascending Colon	1 - right colon	65	NA	913	913	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.2	NO	N0	YES	0	41	0	WITH TUMOR	10.56	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-A00F	Colon	Sigmoid Colon	3 - left colon	66	NA	1035	1035	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N2	YES	0	25	7	WITH TUMOR	2.93	T3	NO	R0	YES	Stage IIIC	NO	LIVING
+TCGA-AA-A00J	Colon	Ascending Colon	1 - right colon	80	NA	548	548	M0	MALE	Colon Mucinous Adenocarcinoma	YES	8480/3	NA	YES	N1	YES	0	24	2	WITH TUMOR	NA	NA	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-A00K	Colon	Sigmoid Colon	3 - left colon	79	NA	548	548	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NO	N0	YES	0	55	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-A00L	Colon	Transverse Colon	2 - transverse colon	66	NA	517	517	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.4	NO	N0	YES	0	32	0	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-A00N	Colon	Cecum	1 - right colon	75	122	122	122	M0	MALE	Colon Mucinous Adenocarcinoma	YES	8480/3	C18.0	YES	N0	YES	0	21	0	WITH TUMOR	9.01	NA	NO	R0	NO	Stage IIB	NO	DECEASED
+TCGA-AA-A00O	Colon	Sigmoid Colon	3 - left colon	83	NA	822	822	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N2	YES	0	40	32	WITH TUMOR	3.25	T3	NO	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AA-A00Q	Colon	Sigmoid Colon	3 - left colon	66	NA	822	822	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N1	YES	0	31	1	WITH TUMOR	89.58	NA	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-A00R	Colon	Cecum	1 - right colon	64	NA	30	30	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.0	NO	N0	YES	3	27	0	WITH TUMOR	0.34	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-A00U	Colon	Ascending Colon	1 - right colon	50	NA	517	517	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N1	YES	0	0	0	WITH TUMOR	NA	T3	NO	R0	YES	Stage IIIB	NO	LIVING
+TCGA-AA-A00W	Colon	Sigmoid Colon	3 - left colon	80	NA	456	456	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	1	17	0	WITH TUMOR	1.22	T1	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AA-A00Z	Colon	Sigmoid Colon	3 - left colon	70	NA	669	669	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N0	YES	0	37	0	WITH TUMOR	1.18	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-A010	Colon	Transverse Colon	2 - transverse colon	46	NA	638	638	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.4	NO	N0	YES	0	45	0	WITH TUMOR	0.2	NA	NO	R0	NO	Stage IIB	NO	LIVING
+TCGA-AA-A017	Colon	Sigmoid Colon	3 - left colon	57	NA	457	457	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N0	YES	0	18	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-A01C	Colon	Ascending Colon	1 - right colon	75	NA	457	457	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	YES	N1	YES	0	31	3	WITH TUMOR	NA	T2	NO	R0	YES	Stage IIIA	NO	LIVING
+TCGA-AA-A01D	Colon	Sigmoid Colon	3 - left colon	47	NA	30	30	M0	FEMALE	Colon Mucinous Adenocarcinoma	NO	8480/3	C19.9	YES	N2	YES	0	12	12	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AA-A01F	Colon	Sigmoid Colon	3 - left colon	72	NA	396	396	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N1	YES	0	30	2	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AA-A01G	Colon	Cecum	1 - right colon	63	NA	365	365	M0	MALE	Colon Mucinous Adenocarcinoma	NO	8480/3	C18.0	NO	N0	YES	0	22	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-A01I	Colon	Sigmoid Colon	3 - left colon	76	NA	365	365	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	0	36	0	WITH TUMOR	NA	T2	NO	R0	YES	Stage I	NO	LIVING
+TCGA-AA-A01K	Colon	Sigmoid Colon	3 - left colon	74	NA	396	396	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N2	YES	0	35	4	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AA-A01P	Colon	Ascending Colon	1 - right colon	80	1158	1158	1158	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.2	YES	N1	YES	0	21	1	WITH TUMOR	1.11	T3	NO	R0	NO	Stage IIIB	NA	DECEASED
+TCGA-AA-A01Q	Colon	Ascending Colon	1 - right colon	48	NA	31	31	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.2	YES	N0	YES	1	16	0	WITH TUMOR	1.88	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-A01R	Colon	Ascending Colon	1 - right colon	47	NA	1065	1065	M0	MALE	Colon Mucinous Adenocarcinoma	NO	8480/3	C18.2	YES	N2	YES	1	19	9	WITH TUMOR	1.83	T3	NO	R0	NO	Stage IIIB	NA	LIVING
+TCGA-AA-A01S	Colon	Sigmoid Colon	3 - left colon	47	NA	31	31	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	NA	N1	YES	0	19	1	WITH TUMOR	0.82	T3	NO	R0	NO	Stage IIIB	NA	LIVING
+TCGA-AA-A01T	Colon	Sigmoid Colon	3 - left colon	63	NA	1005	1005	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N1	YES	0	15	1	WITH TUMOR	0.7	T3	NO	R0	NO	Stage IIIB	NA	LIVING
+TCGA-AA-A01V	Colon	Cecum	1 - right colon	59	NA	1065	1065	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.0	NA	N0	YES	0	15	0	WITH TUMOR	4.09	T2	NO	R0	NO	Stage I	NA	LIVING
+TCGA-AA-A01X	Colon	Sigmoid Colon	3 - left colon	80	NA	791	791	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N1	YES	0	14	2	WITH TUMOR	11.08	T2	NO	RX	NO	Stage IIIA	NA	LIVING
+TCGA-AA-A01Z	Colon	Ascending Colon	1 - right colon	68	NA	638	638	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	YES	N0	YES	0	12	0	WITH TUMOR	18.87	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-A022	Colon	Cecum	1 - right colon	88	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N0	YES	0	18	0	WITH TUMOR	1.51	NA	NO	R0	NO	NA	YES	LIVING
+TCGA-AA-A024	Colon	Descending Colon	3 - left colon	81	1188	1188	1188	M0	MALE	Colon Mucinous Adenocarcinoma	NO	8140/11	C18.6	NA	N0	YES	0	14	0	WITH TUMOR	3.77	T3	YES	R0	NO	Stage IIA	NA	DECEASED
+TCGA-AA-A029	Colon	Cecum	1 - right colon	67	NA	1580	1580	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.0	NA	N0	YES	0	27	0	WITH TUMOR	1.97	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AA-A02E	Colon	Cecum	1 - right colon	82	89	89	89	M1	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N1	YES	0	16	4	WITH TUMOR	441.9	T3	NO	R2	NO	Stage IV	YES	DECEASED
+TCGA-AA-A02F	Colon	Sigmoid Colon	3 - left colon	68	NA	1215	1215	M1	FEMALE	Colon Adenocarcinoma	NO	8010/3	C18.7	YES	N1	YES	0	12	1	WITH TUMOR	2.49	T3	NO	R2	NO	Stage IV	YES	LIVING
+TCGA-AA-A02H	Colon	Sigmoid Colon	3 - left colon	74	61	61	61	M1	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N2	YES	0	12	6	WITH TUMOR	1387	T3	NO	R2	NO	Stage IV	YES	DECEASED
+TCGA-AA-A02J	Colon	Sigmoid Colon	3 - left colon	70	153	153	153	M1	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.7	YES	N0	YES	1	13	0	WITH TUMOR	96.57	T3	NO	R2	NO	Stage IV	YES	DECEASED
+TCGA-AA-A02K	Colon	Ascending Colon	1 - right colon	50	425	425	425	M1	MALE	Colon Adenocarcinoma	NO	8140/3	C18.2	YES	N2	YES	1	20	7	WITH TUMOR	NA	NA	NO	R2	NO	Stage IV	YES	DECEASED
+TCGA-AA-A02O	Colon	Transverse Colon	2 - transverse colon	82	NA	28	28	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.4	YES	N0	YES	0	18	0	WITH TUMOR	5.97	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AA-A02R	Colon	Cecum	1 - right colon	84	670	670	670	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N0	YES	0	18	0	WITH TUMOR	2.67	T3	NO	R0	NO	Stage IIA	YES	DECEASED
+TCGA-AA-A02W	Colon	Sigmoid Colon	3 - left colon	73	NA	1246	1246	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NA	N0	YES	0	12	0	WITH TUMOR	2.96	T2	NO	R0	NO	Stage I	NA	LIVING
+TCGA-AA-A02Y	Colon	Cecum	1 - right colon	73	NA	1215	1215	M0	MALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N0	YES	0	18	0	WITH TUMOR	0.98	T2	NO	R0	NO	Stage I	YES	LIVING
+TCGA-AA-A03F	Colon	Cecum	1 - right colon	90	548	548	548	M0	FEMALE	Colon Mucinous Adenocarcinoma	NO	8480/3	C18.0	NA	N2	YES	0	29	4	WITH TUMOR	1.09	T3	NO	R0	NO	Stage IIIB	NA	DECEASED
+TCGA-AA-A03J	Colon	Sigmoid Colon	3 - left colon	65	NA	1245	1245	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NA	N0	YES	1	34	0	WITH TUMOR	2.09	T2	NO	R0	NO	Stage I	NA	LIVING
+TCGA-AF-2689	Rectum	Rectosigmoid Junction	4 - rectum	41	NA	482	482	M1	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C19.9	YES	N2	YES	NA	32	6	WITH TUMOR	6	T3	NO	R0	NO	Stage IV	NO	LIVING
+TCGA-AF-2691	Rectum	Rectum	4 - rectum	48	NA	323	323	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C19.9	NO	N0	YES	0	17	0	TUMOR FREE	1.3	T1	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AF-2692	Rectum	NA	4 - rectum	54	NA	412	412	M0	FEMALE	NA	NO	NA	C18.7	NO	N0	YES	0	12	0	WITH TUMOR	10.6	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AF-3400	Rectum	Rectosigmoid Junction	4 - rectum	54	NA	387	387	M0	MALE	Rectal Mucinous Adenocarcinoma	NO	8480/3	C19.9	NO	N0	YES	1	32	0	TUMOR FREE	2.8	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AF-3913	Rectum	Rectosigmoid Junction	4 - rectum	60	316	316	316	M1	MALE	Rectal Adenocarcinoma	NO	8140/3	C19.9	YES	N1a	YES	NA	26	1	WITH TUMOR	41.5	T3	YES	R0	YES	Stage IV	NO	DECEASED
+TCGA-AG-3574	Rectum	Rectum	4 - rectum	89	NA	0	30	M0	FEMALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N0	YES	0	18	NA	WITH TUMOR	4.59	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3575	Rectum	Rectum	4 - rectum	51	NA	0	0	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	31	0	WITH TUMOR	0.83	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3578	Rectum	Rectum	4 - rectum	76	NA	0	61	M0	FEMALE	Rectal Mucinous Adenocarcinoma	YES	8480/3	C20.9	NO	N0	YES	0	25	0	WITH TUMOR	1.39	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3580	Rectum	Rectum	4 - rectum	67	NA	0	0	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N0	YES	0	22	0	WITH TUMOR	0.87	T1	YES	R0	NO	Stage I	NO	LIVING
+TCGA-AG-3581	Rectum	Rectum	4 - rectum	63	NA	31	31	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	33	0	WITH TUMOR	0.65	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AG-3582	Rectum	Rectum	4 - rectum	75	NA	31	31	M1	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N1	YES	0	28	1	WITH TUMOR	612.1	T3	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AG-3583	Rectum	Rectum	4 - rectum	66	NA	61	61	M1	MALE	Rectal Mucinous Adenocarcinoma	NO	8480/3	C20.9	YES	N2	YES	0	34	9	WITH TUMOR	90.73	T3	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AG-3584	Rectum	Rectum	4 - rectum	60	NA	0	0	M1	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N2	YES	0	34	20	WITH TUMOR	36.7	T3	NO	R2	NO	Stage IV	YES	LIVING
+TCGA-AG-3586	Rectum	Rectum	4 - rectum	72	NA	0	31	M0	FEMALE	NA	NO	NA	C20.9	YES	N2	YES	0	19	4	WITH TUMOR	1.86	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AG-3587	Rectum	Rectum	4 - rectum	65	NA	31	31	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	17	0	WITH TUMOR	1.41	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AG-3593	Rectum	Rectum	4 - rectum	72	NA	0	30	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	38	0	WITH TUMOR	9.76	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3594	Rectum	Rectum	4 - rectum	77	NA	0	31	M0	MALE	Rectal Mucinous Adenocarcinoma	YES	8480/3	C20.9	NO	N0	YES	0	25	0	WITH TUMOR	2.99	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3598	Rectum	Rectum	4 - rectum	69	NA	0	31	M0	MALE	Rectal Adenocarcinoma	NO	8480/3	C20.9	NO	N0	YES	0	65	0	WITH TUMOR	4.76	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3599	Rectum	Rectum	4 - rectum	70	NA	30	30	M0	MALE	NA	NO	8140/3	C20.9	NO	N0	YES	0	12	0	WITH TUMOR	3.36	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AG-3600	Rectum	Rectum	4 - rectum	62	NA	0	0	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	YES	N2	YES	0	45	31	WITH TUMOR	48.85	T3	NO	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AG-3601	Rectum	Rectum	4 - rectum	68	NA	0	0	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	0	17	2	WITH TUMOR	47.92	NA	NO	R2	NO	Stage IIIB	NO	LIVING
+TCGA-AG-3602	Rectum	Rectum	4 - rectum	66	NA	0	0	M0	FEMALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	YES	N2	YES	0	31	5	WITH TUMOR	66.9	T3	NO	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AG-3605	Rectum	Rectum	4 - rectum	85	NA	0	30	M1	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	0	13	3	WITH TUMOR	23.09	T3	NO	R2	NO	Stage IV	YES	LIVING
+TCGA-AG-3608	Rectum	Rectum	4 - rectum	79	NA	0	30	M0	FEMALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N0	YES	0	16	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3609	Rectum	Rectum	4 - rectum	65	NA	0	0	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N2	YES	0	42	4	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIC	NO	LIVING
+TCGA-AG-3611	Rectum	Rectum	4 - rectum	72	NA	0	31	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N0	YES	0	19	0	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3612	Rectum	Rectum	4 - rectum	55	NA	0	31	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N1	YES	0	32	1	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AG-3726	Rectum	Rectum	4 - rectum	63	NA	31	31	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	34	0	WITH TUMOR	3.98	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AG-3727	Rectum	Rectum	4 - rectum	78	NA	29	29	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	0	25	2	WITH TUMOR	1.1	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AG-3728	Rectum	Rectum	4 - rectum	73	NA	0	0	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N1	YES	0	19	3	WITH TUMOR	1.89	T3	NO	R0	YES	Stage IIIB	NO	LIVING
+TCGA-AG-3878	Rectum	Rectum	4 - rectum	64	NA	30	30	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N0	YES	0	15	0	WITH TUMOR	1.15	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AG-3881	Rectum	Rectum	4 - rectum	83	NA	0	30	M0	FEMALE	NA	NO	8480/3	C20.9	YES	N0	YES	0	30	0	WITH TUMOR	16	T3	NO	NA	NO	Stage IIA	YES	LIVING
+TCGA-AG-3882	Rectum	Rectum	4 - rectum	66	NA	0	0	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	YES	0	18	0	WITH TUMOR	0.33	T2	NO	R0	NO	Stage I	YES	LIVING
+TCGA-AG-3883	Rectum	Rectum	4 - rectum	69	NA	0	31	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	YES	0	15	0	WITH TUMOR	2.39	T2	NO	R0	NO	Stage I	YES	LIVING
+TCGA-AG-3885	Rectum	Rectum	4 - rectum	71	NA	0	30	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	0	19	3	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIB	YES	LIVING
+TCGA-AG-3887	Rectum	Rectum	4 - rectum	68	NA	28	28	M0	MALE	Rectal Mucinous Adenocarcinoma	YES	8480/3	C20.9	YES	N0	YES	1	14	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	YES	LIVING
+TCGA-AG-3890	Rectum	Rectum	4 - rectum	62	NA	0	0	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	YES	N0	YES	1	12	0	WITH TUMOR	NA	T2	YES	R0	NO	Stage I	YES	LIVING
+TCGA-AG-3892	Rectum	Rectum	4 - rectum	57	NA	31	31	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NA	N0	YES	0	17	0	WITH TUMOR	NA	T1	NO	R0	NO	Stage I	NA	LIVING
+TCGA-AG-3893	Rectum	Rectum	4 - rectum	74	NA	30	30	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	0	14	1	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIB	NA	LIVING
+TCGA-AG-3894	Rectum	Rectum	4 - rectum	65	NA	30	30	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	YES	N0	YES	0	15	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	YES	LIVING
+TCGA-AG-3896	Rectum	Rectum	4 - rectum	85	NA	0	31	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	NO	0	NA	0	WITH TUMOR	NA	T2	NO	R0	NO	Stage I	YES	LIVING
+TCGA-AG-3898	Rectum	Rectum	4 - rectum	61	NA	0	30	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N0	YES	0	21	0	WITH TUMOR	1.98	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3901	Rectum	Rectum	4 - rectum	67	NA	0	61	M0	FEMALE	Rectal Mucinous Adenocarcinoma	NO	8480/3	C20.9	YES	N1	YES	0	20	2	WITH TUMOR	0.6	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AG-3902	Rectum	Rectum	4 - rectum	61	NA	0	31	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N0	YES	0	17	0	WITH TUMOR	8.14	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-3909	Rectum	Rectum	4 - rectum	69	NA	0	0	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	2	35	3	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AG-3999	Rectum	Rectum	4 - rectum	61	NA	31	31	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N2	YES	0	32	20	WITH TUMOR	9.67	T3	NO	R0	NO	Stage IIIC	YES	NA
+TCGA-AG-4001	Rectum	Rectum	4 - rectum	74	NA	31	31	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	29	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-4005	Rectum	Rectum	4 - rectum	64	NA	0	30	M1	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N2	YES	0	40	7	WITH TUMOR	31.52	T3	NO	R0	NO	Stage IV	YES	LIVING
+TCGA-AG-4007	Rectum	Rectum	4 - rectum	87	NA	31	31	M1	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N2	YES	0	34	5	WITH TUMOR	3.65	NA	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AG-4008	Rectum	Rectum	4 - rectum	63	NA	31	31	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	YES	0	15	0	WITH TUMOR	NA	T3	YES	R0	NO	Stage IIA	YES	LIVING
+TCGA-AG-4015	Rectum	Rectum	4 - rectum	85	NA	0	0	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	YES	0	24	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-A002	Rectum	Rectum	4 - rectum	35	NA	637	637	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NA	N0	YES	0	34	0	WITH TUMOR	NA	T2	NO	R0	NO	Stage I	NA	LIVING
+TCGA-AG-A008	Rectum	Rectum	4 - rectum	50	NA	423	423	M0	FEMALE	Rectal Mucinous Adenocarcinoma	YES	8480/3	C20.9	NO	N0	YES	0	28	0	WITH TUMOR	NA	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-AG-A00C	Rectum	Rectum	4 - rectum	49	NA	183	183	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	0	24	1	WITH TUMOR	4.31	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AG-A00H	Rectum	Rectum	4 - rectum	75	NA	789	789	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	32	0	WITH TUMOR	1.5	T3	YES	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-A00Y	Rectum	Rectum	4 - rectum	68	NA	700	700	M0	MALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N0	YES	0	31	0	WITH TUMOR	4.21	T3	NO	R0	YES	Stage IIA	NO	LIVING
+TCGA-AG-A011	Rectum	Rectum	4 - rectum	80	NA	518	518	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	14	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-A014	Rectum	Rectum	4 - rectum	86	NA	484	484	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	15	0	WITH TUMOR	NA	T2	YES	R0	NO	Stage I	NO	LIVING
+TCGA-AG-A015	Rectum	Rectum	4 - rectum	64	NA	396	396	M0	FEMALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	NO	N0	YES	1	18	0	WITH TUMOR	NA	T1	YES	R0	NO	Stage I	NO	LIVING
+TCGA-AG-A016	Rectum	Rectum	4 - rectum	55	NA	31	31	M1	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N2	YES	0	19	4	WITH TUMOR	NA	T3	NO	R2	NO	Stage IV	NO	LIVING
+TCGA-AG-A01J	Rectum	Rectum	4 - rectum	59	NA	31	31	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NO	N0	YES	0	23	0	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-AG-A01L	Rectum	Rectum	4 - rectum	58	NA	365	365	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	0	47	2	WITH TUMOR	NA	T3	NO	R0	NO	Stage IIIB	NO	LIVING
+TCGA-AG-A01N	Rectum	Rectum	4 - rectum	68	NA	365	365	M1	FEMALE	Rectal Adenocarcinoma	YES	8140/3	C20.9	YES	N0	YES	0	23	0	WITH TUMOR	NA	T2	YES	R2	NO	Stage IV	NO	LIVING
+TCGA-AG-A01W	Rectum	Rectum	4 - rectum	67	NA	2130	2130	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	YES	2	20	0	WITH TUMOR	2.07	T3	NO	R0	NO	Stage IIA	YES	LIVING
+TCGA-AG-A01Y	Rectum	Rectum	4 - rectum	49	NA	1946	1946	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	YES	0	17	0	WITH TUMOR	5.85	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AG-A020	Rectum	Rectum	4 - rectum	57	NA	334	334	M0	FEMALE	Rectal Mucinous Adenocarcinoma	NO	8480/3	C20.9	YES	N1	YES	0	12	1	WITH TUMOR	1.43	T3	NO	R0	NO	Stage IIIB	NA	LIVING
+TCGA-AG-A023	Rectum	Rectum	4 - rectum	62	1581	1581	1581	M1	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N2	YES	1	12	6	WITH TUMOR	1.88	NA	YES	R2	NO	Stage IV	YES	DECEASED
+TCGA-AG-A025	Rectum	Rectum	4 - rectum	62	NA	1519	1519	M0	FEMALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NA	N0	YES	0	11	0	WITH TUMOR	0.75	T1	NO	R0	NO	Stage I	NA	LIVING
+TCGA-AG-A026	Rectum	Rectum	4 - rectum	66	59	59	59	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	YES	0	15	0	WITH TUMOR	9.65	NA	NO	R1	NO	NA	YES	DECEASED
+TCGA-AG-A02G	Rectum	Rectum	4 - rectum	66	1184	1184	1184	M1	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	0	16	3	WITH TUMOR	2.32	T2	NO	R2	NO	Stage IV	YES	DECEASED
+TCGA-AG-A02N	Rectum	Rectum	4 - rectum	67	NA	1884	1884	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	YES	0	12	0	WITH TUMOR	2.07	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-AG-A02X	Rectum	Rectum	4 - rectum	77	NA	1246	1246	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N0	YES	0	15	0	WITH TUMOR	8.14	T2	NO	R0	NO	Stage I	YES	LIVING
+TCGA-AG-A032	Rectum	Rectum	4 - rectum	68	NA	1156	1156	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	YES	N1	YES	0	16	2	WITH TUMOR	7.77	T3	NO	R0	NO	Stage IIIB	YES	LIVING
+TCGA-AG-A036	Rectum	Rectum	4 - rectum	71	NA	2192	2192	M0	MALE	Rectal Adenocarcinoma	NO	8140/3	C20.9	NA	N2	YES	0	30	18	WITH TUMOR	2.2	T3	NO	R0	NO	Stage IIIB	NA	LIVING
+TCGA-AY-4070	Colon	Cecum	1 - right colon	50	496	496	457	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.0	YES	N2	YES	0	15	5	WITH TUMOR	67.5	T3	NO	R1	NO	Stage IIIC	YES	DECEASED
+TCGA-AY-4071	Colon	NA	NA	63	29	29	28	NA	FEMALE	NA	YES	8140/3	C18.6	NO	N0	YES	0	25	0	TUMOR FREE	6	T1	NO	R0	NO	Stage I	NO	DECEASED
+TCGA-AZ-4308	Colon	Sigmoid Colon	3 - left colon	47	NA	1714	1714	M0	FEMALE	Colon Adenocarcinoma	NA	8140/3	C18.7	YES	N1	YES	NA	14	3	TUMOR FREE	0.5	T3	NO	R0	NA	Stage IIIB	NO	LIVING
+TCGA-AZ-4313	Colon	Descending Colon	1 - right colon	51	NA	957	957	M0	FEMALE	Colon Adenocarcinoma	NA	8140/3	C18.6	YES	N0	YES	0	13	0	TUMOR FREE	5.9	T1	YES	NA	NA	Stage I	YES	LIVING
+TCGA-AZ-4315	Colon	Cecum	1 - right colon	61	NA	1334	1334	M0	MALE	Colon Adenocarcinoma	NA	8140/3	C18.0	NO	N0	YES	0	0	NA	TUMOR FREE	1.5	T3	NO	R0	NA	Stage IIA	NO	LIVING
+TCGA-AZ-4614	Colon	NA	NA	71	172	172	172	M1	FEMALE	Colon Adenocarcinoma	NA	8140/3	C18.7	YES	N1	YES	NA	4	2	WITH TUMOR	49.7	T4a	NO	R0	NA	Stage IVA	YES	DECEASED
+TCGA-AZ-4615	Colon	NA	NA	84	NA	505	505	M0	MALE	Colon Adenocarcinoma	NA	8140/3	C18.0	YES	N1	YES	1	18	1	NA	2.1	T3	NO	RX	YES	Stage IIIB	YES	LIVING
+TCGA-AZ-4681	Colon	Ascending Colon	1 - right colon	79	NA	2180	2180	M0	FEMALE	Colon Adenocarcinoma	NA	8140/3	C18.2	NA	N0	NA	1	NA	NA	TUMOR FREE	15.1	T3	NO	R0	YES	Stage IIA	NA	LIVING
+TCGA-AZ-4682	Colon	Sigmoid Colon	3 - left colon	61	670	670	670	M1	MALE	Colon Adenocarcinoma	NA	8140/3	C18.7	NO	N0	YES	NA	3	0	WITH TUMOR	NA	T3	NO	R0	YES	Stage IVA	NO	DECEASED
+TCGA-AZ-4684	Colon	NA	NA	49	NA	1705	1705	M1	MALE	Colon Adenocarcinoma	NA	8140/3	C19.9	YES	N2	YES	NA	12	10	WITH TUMOR	8.9	T3	NO	NA	YES	Stage IVA	NA	LIVING
+TCGA-CA-5256	Colon	Hepatic Flexure	1 - right colon	54	NA	0	0	M0	FEMALE	Colon Adenocarcinoma	NO	8140/3	C18.3	NA	N0	NO	0	NA	NA	TUMOR FREE	NA	T3	NO	R0	NO	Stage IIA	NA	LIVING
+TCGA-CK-4951	Colon	Ascending Colon	1 - right colon	79	NA	1491	1491	M0	FEMALE	Colon Mucinous Adenocarcinoma	NA	8480/3	C18.2	NA	N0	YES	NA	30	0	TUMOR FREE	NA	T3	NO	NA	NA	Stage IIA	NA	LIVING
+TCGA-CM-4744	Colon	Cecum	1 - right colon	69	NA	214	214	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.0	YES	N0	YES	0	28	0	TUMOR FREE	0.9	T2	NO	R0	NO	Stage I	YES	LIVING
+TCGA-CM-4746	Colon	Sigmoid Colon	3 - left colon	61	NA	699	699	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.7	NO	N0	YES	0	17	0	TUMOR FREE	2.2	T2	NO	R0	NO	Stage I	NO	LIVING
+TCGA-CM-4747	Colon	Cecum	1 - right colon	47	NA	244	244	M1a	MALE	Colon Adenocarcinoma	YES	8140/3	C18.0	YES	N1b	YES	0	29	2	TUMOR FREE	2.6	T4a	NO	R0	NO	Stage IVA	NO	LIVING
+TCGA-CM-4748	Colon	Transverse Colon	2 - transverse colon	53	NA	214	214	M0	MALE	Colon Adenocarcinoma	YES	8480/3	C18.4	YES	N1b	YES	0	23	1	TUMOR FREE	2	T4a	NO	R0	YES	Stage IIIB	YES	LIVING
+TCGA-CM-4750	Colon	NA	NA	34	NA	244	244	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	NA	YES	N1b	YES	0	52	2	TUMOR FREE	1	T1	NO	R0	NO	Stage IIIA	NO	LIVING
+TCGA-CM-4752	Colon	Ascending Colon	1 - right colon	58	NA	123	123	M0	MALE	Colon Adenocarcinoma	YES	8140/3	C18.2	NO	N0	YES	0	23	0	TUMOR FREE	2.2	T3	NO	R0	NO	Stage IIA	NO	LIVING
+TCGA-CM-5341	Colon	Sigmoid Colon	3 - left colon	82	NA	183	183	M0	FEMALE	Colon Adenocarcinoma	YES	8140/3	C18.7	YES	N1a	YES	0	18	1	TUMOR FREE	16.7	T2	NO	R0	YES	Stage IIIA	NO	LIVING
